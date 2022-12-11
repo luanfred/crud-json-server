@@ -1,0 +1,45 @@
+.container h3 {
+    text-align: center;
+    font-size: 1.25rem;
+    margin: 1rem 0;
+    color: var(--title);
+}
+
+.table {
+    width: 40rem;
+    border: 1px solid ;
+}
+
+.table tr {
+    height: 3rem;
+}
+
+
+.table, th, td {
+    border-radius: 10px;
+    padding: 1rem;
+}
+
+.containerTable {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height: 3rem;
+}
+
+.containerButton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 3rem;
+}
+
+.containerButton a {
+    margin-right: 0.5rem;
+}
+
+.containerElse h3, span{
+    color: var(--title);
+}

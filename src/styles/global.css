@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+  list-style: none;
+  text-decoration: none;
+}
+
+body {
+  background-color: var(--background);
+}
+
+
+:root {
+  --white: #fff;
+  --background: #F2F3F5;
+  --title: #2E384D;
+}
