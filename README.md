@@ -15,7 +15,7 @@
 
 ```bash
   # Clone esse repositório
-  $ git clone https://github.com/luanfred/CRUD.git
+  $ git clone https://github.com/luanfred/crud-json-server.git
 
   # Acesse a pasta do projeto
   $ cd crud-json-server
