@@ -18,7 +18,7 @@
   $ git clone https://github.com/luanfred/CRUD.git
 
   # Acesse a pasta do projeto
-  $ cd CRUD
+  $ cd crud-json-server
 
   # Instale as dependências
   $ npm install
